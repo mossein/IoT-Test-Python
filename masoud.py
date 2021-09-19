@@ -1,4 +1,3 @@
-print ("Hello Masoud Khan")
-masoud = "Zare"
-zareh = 2
-Mehrzad = "Bepichoon azam"
+from tuya_iot import TuyaOpenAPI
+from requests import get
+import random
